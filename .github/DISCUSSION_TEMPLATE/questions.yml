@@ -4,7 +4,7 @@ body:
       value: |
         > [!IMPORTANT]
         > Before posting a question, please ensure you are running a supported version of the project. \
-        > Additionally, review the previously answered questions to confirm that your question has not already been posted.
+        > Additionally, review the previously answered questions in case your question has already been answered.
   - type: textarea
     attributes:
       label: Project Version

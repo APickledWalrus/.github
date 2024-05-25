@@ -1,5 +1,6 @@
 name: Bug Report
-description: Report a bug you have encountered with the project.
+description: Report a bug with the project.
+title: "[Bug Report]: "
 body:
   - type: markdown
     attributes:

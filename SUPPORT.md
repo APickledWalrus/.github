@@ -4,12 +4,15 @@ Need help with one of our projects?
 
 We have compiled the resources below because we believe they provide valuable support for (or related to) our projects.
 
-
 ## General Support
 
 For any of our project repositories, the `Discussions` tab may be used to post questions and receive answers. \
-Additionally, before posting, every project has a `Wiki` tab that can be reviewed for resolving common issues. \
+Every project has a `Wiki` tab that can be reviewed (before posting) for resolving common issues. \
+Furthermore, our project repositories each have `README` files that typically contain project-specific resources.
+
 If you believe you have found an issue with a project, you should use the project's `Issues` tab to report it.
+> [!IMPORTANT]
+> For **security issues**, please review our [Security Policy](https://github.com/APickledWalrus/.github/blob/main/SECURITY.md).
 
 ### Recommendations For Posting Questions
 

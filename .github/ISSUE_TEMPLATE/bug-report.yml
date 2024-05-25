@@ -7,7 +7,9 @@ body:
       value: |
         > [!IMPORTANT]
         > Before filing a report, please ensure you are running a supported version of the project. \
-        > Additionally, review the current open issues to confirm that the issue has not already been reported.
+        > Additionally, review the current open issues to confirm that the issue has not already been reported. \
+        > Security issues should **NOT** be reported using this form.
+        > Instead, please review our [Security Policy](https://github.com/APickledWalrus/.github/blob/main/SECURITY.md).
   - type: textarea
     attributes:
       label: Project Version

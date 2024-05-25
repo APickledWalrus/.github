@@ -6,16 +6,14 @@ body:
       value: |
         > [!IMPORTANT]
         > Before filing a report, please ensure you are running a supported version of the project. \
-        > Additionally, review the current open issues to confirm that none of your same problem are open.
+        > Additionally, review the current open issues to confirm that the issue has not already been reported.
   - type: textarea
     attributes:
       label: Project Version
       description: |
         Please include the version of the project you are running.
         Additionally, include additional information around the dependencies you are using.
-        For example, for issues related to Skript addons, you should include the server software (e.g. Spigot or Paper) and its version,
-        the Skript version, and any other relevant plugins or dependencies.
-      render: markdown
+        For example, for issues related to Skript addons, you should include the server software (e.g. Spigot or Paper) and its version, the Skript version, and any other relevant plugins or dependencies.
     validations:
       required: true
   - type: textarea

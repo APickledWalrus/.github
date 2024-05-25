@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: Have a suggestion?
     url: https://github.com/APickledWalrus/.github/
-    about: Please share your suggestions here.
+    about: Suggestions can be shared in the Discussions tab.
   - name: Have a question?
     url: https://github.com/APickledWalrus/.github/
-    about: Please ask your questions here.
+    about: Questions can be asked in the Discussions tab.

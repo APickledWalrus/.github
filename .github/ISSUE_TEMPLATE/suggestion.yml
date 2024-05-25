@@ -1,13 +1,13 @@
 name: Suggestion
-description: Suggest a new feature for the project.
-title: "[Suggestion]: "
+description: Suggest a new feature or change for the project.
+labels: ["enhancement"]
 body:
   - type: markdown
     attributes:
       value: |
         > [!IMPORTANT]
         > Please ensure that your suggestion is not already possible.
-        > Additionally, ensure that it has not already been suggested.
+        > Additionally, ensure that your suggestion has not already been posted.
   - type: textarea
     attributes:
       label: Suggestion
@@ -17,13 +17,13 @@ body:
   - type: textarea
     attributes:
       label: Why?
-      description: Tell us why you want to see this feature added.
+      description: Tell us why you want to see this implemented.
     validations:
       required: true
   - type: textarea
     attributes:
       label: Alternatives Considered
-      description: Have you considered any alternatives? Is this already possible through a different method?
+      description: Have you considered any alternatives for this suggestion? Is this already possible through a different method?
     validations:
       required: true
   - type: textarea

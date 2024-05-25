@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Have a suggestion?
+    url: /discussions/new?category=suggestions
+    about: Please post your suggestions here.
+  - name: Have a question?
+    url: /discussions/new?category=q-a
+    about: Please ask and answer questions here.

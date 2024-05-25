@@ -1,0 +1,54 @@
+name: Bug Report
+description: Report a bug you have encountered with the project.
+body:
+  - type: markdown
+    attributes:
+      value: |
+        > [!IMPORTANT]
+        > Before filing a report, please ensure you are running a supported version of the project. \
+        > Additionally, review the current open issues to confirm that none of your same problem are open.
+  - type: textarea
+    attributes:
+      label: Project Version
+      description: |
+        Please include the version of the project you are running.
+        Additionally, include additional information around the dependencies you are using.
+        For example, for issues related to Skript addons, you should include the server software (e.g. Spigot or Paper) and its version,
+        the Skript version, and any other relevant plugins or dependencies.
+      render: markdown
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Bug Description
+      description: Describe the bug you have encountered. Try to be as thorough as possible.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Expected Behavior
+      description: What was supposed to happen? If you're not sure, please state so.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce
+      description: |
+        What did you do to make this problem happen? Try to be as thorough as possible.
+        You may include any code if necessary. Please make sure it is actually testable by someone.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Errors or Screenshots
+      description: |
+        Please include any errors you have encountered. You may include media (e.g. photo, video, etc.) if you wish.
+        If your error is long, we ask that you instead use a site such as https://gist.github.com/ or https://paste.gg/ and share the link here.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Other
+      description: Have anything else to add?
+    validations:
+      required: false

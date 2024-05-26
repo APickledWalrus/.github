@@ -7,9 +7,10 @@ body:
       value: |
         > [!CAUTION]
         > Security issues should **NOT** be reported using this form. Instead, please review our [Security Policy](https://github.com/APickledWalrus/.github/blob/main/SECURITY.md).
+        
         > [!IMPORTANT]
         > Before filing a report, please ensure you are running a supported version of the project. \
-        > Please review our [Contributing Guidelines](https://github.com/APickledWalrus/.github/blob/main/CONTRIBUTING.md) for our full guidelines on submitting bug reports.
+        > Review our [Contributing Guidelines](https://github.com/APickledWalrus/.github/blob/main/CONTRIBUTING.md) for our full guidelines on submitting bug reports.
   - type: textarea
     attributes:
       label: Project Version

@@ -23,6 +23,9 @@ Following these steps increases the likelihood that we will be able to assist yo
 While we cannot implement every suggestion, we still love to hear your ideas.
 Typically, suggestions may be posted in a project repository's `Issues` tab, using the `Suggestion` form.
 
+Before posting a suggestion, make sure that the suggestion is not already implemented.
+Additionally, review the open suggestions to ensure that your idea is not covered by an existing suggestion.
+
 ## Pull Requests
 
 We greatly appreciate code contributions to our projects, but there are guidelines on how they should be.

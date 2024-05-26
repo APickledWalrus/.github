@@ -6,8 +6,8 @@ body:
     attributes:
       value: |
         > [!IMPORTANT]
-        > Please ensure that your suggestion is not already possible.
-        > Additionally, ensure that your suggestion has not already been posted.
+        > Please ensure that your suggestion is not already possible nor has it already been posted.
+        > Please review our [Contributing Guidelines](https://github.com/APickledWalrus/.github/blob/main/CONTRIBUTING.md) for our full guidelines on submitting suggestions.
   - type: textarea
     attributes:
       label: Suggestion

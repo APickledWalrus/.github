@@ -17,4 +17,4 @@ We are committed to addressing any security concerns that arise.
 
 Typically, only the latest version of a project is supported.
 However, some projects may have different policies.
-Please review the project repository for specific details on supported versions.
+Please review the project's repository for specific details on supported versions.
